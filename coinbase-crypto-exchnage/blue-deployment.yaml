@@ -1,3 +1,5 @@
+# This Kubernetes YAML file defines a deployment for the "blue" version of the Flask application:
+
 apiVersion: apps/v1
 kind: Deployment
 metadata:

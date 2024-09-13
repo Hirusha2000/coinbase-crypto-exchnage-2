@@ -1,3 +1,5 @@
+# This YAML file is a generic Service definition similar to service-selecter.yaml but without a specific version selector:
+
 apiVersion: v1
 kind: Service
 metadata:

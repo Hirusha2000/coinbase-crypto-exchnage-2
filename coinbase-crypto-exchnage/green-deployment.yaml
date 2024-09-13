@@ -1,3 +1,5 @@
+# This file is similar to blue-deployment.yaml but defines a "green" version of the Deployment:
+
 apiVersion: apps/v1
 kind: Deployment
 metadata:

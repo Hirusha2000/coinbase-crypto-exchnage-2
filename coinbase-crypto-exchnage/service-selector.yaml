@@ -1,3 +1,5 @@
+# This YAML file defines a Kubernetes Service to expose your Flask application to the internet:
+
 apiVersion: v1
 kind: Service
 metadata:
